@@ -1,6 +1,6 @@
 /**
  * @file main.cpp
- * @author your name (you@domain.com)
+ * @author Chris Soto
  * @brief 
  * @version 0.1
  * @date 
@@ -38,7 +38,6 @@ int main()
 
     double num5 = num4;//type conversion operator
     cout <<"num5 = "<<num5<<endl;
-
     Rational num6 = "3/4";
     cout <<"num6 = "<<num6<<endl;
 
